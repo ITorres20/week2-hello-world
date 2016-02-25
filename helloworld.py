@@ -1,10 +1,25 @@
-# replace the contents of this comment with your full name
+#Ivetteliz Torres
+# this program is suppose to display the hello world greeting in three different languages
+language1= 'Hola Mundo!'
+language2= 'Ola Mundo!'
+language3= 'Bonjour le monde!'
 
-# write a program that:
-# 1. greets the user in English
-# 2. asks the user to choose from 1 of 3 spoken languages (pick your favorite languages!) 
-# 3. displays the greeting in the chosen language
-# 4. exits
+print 'Hello World!' # greeting
 
-# make sure that your code contains comments explaining your logic!
+print 'Please select one of the following languages.' # ask the user for language selection
 
+#language selections
+print '1.Spanish'
+
+print '2.Portuguese'
+
+print '3.French'
+
+lang =input()
+
+# from here on is where im having difficulty I dont know what im doing wrong,Please advise 
+if lang='1'
+ans=language1
+print(language1)
+
+# I continue to get an error message 
