@@ -22,4 +22,12 @@ if lang='1'
 ans=language1
 print(language1)
 
-# I continue to get an error message 
+if lang='2'
+ans=language2
+print(language2)
+
+if lang='3'
+ans=language3
+print(language3)
+
+
